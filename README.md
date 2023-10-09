@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif" alt="Wolverine" width="400" height="200">
+<img src="https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif" alt="Wolverine" width="800" height="200">
 
 
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
