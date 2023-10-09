@@ -3,6 +3,8 @@
 
 <img src="man.gif" alt="Computer man">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjayandhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamjayandhan" /> </p>
+
 - 🔭 I’m currently working on **CyberSecurity**
 
 - 🌱 I’m currently learning **Javascript, React and TryHackMe**
