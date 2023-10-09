@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player | Frontend Web Developer💻</h3>
 
-<img src="man.gif" alt="Computer man" style="height:50px">
+<img src="man.gif" alt="Computer man" style="height:50px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjayandhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamjayandhan" /> </p>
 
 - 🔭 I’m currently working on **CyberSecurity**
