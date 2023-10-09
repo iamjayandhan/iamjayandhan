@@ -1,4 +1,4 @@
-<div style="max-width: 100%; overflow: hidden;">
+<div style="max-width: 150%; overflow: hidden;">
     <img src="https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif" alt="Wolverine" style="width: 150%;">
 </div>
 
