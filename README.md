@@ -1,4 +1,4 @@
-<img src="man.gif" alt="Computer man">
+<img src="wolverine.gif" alt="wolverine">
 
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player | Frontend Web Developer💻</h3>
