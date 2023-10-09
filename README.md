@@ -1,4 +1,4 @@
-<img src="wolverine.gif" alt="wolverine">
+![Wolverine](wolverine.gif)
 
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player | Frontend Web Developer💻</h3>
