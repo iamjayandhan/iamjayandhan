@@ -1,4 +1,5 @@
-![Wolverine](https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif)  
+<img src="[https://example.com/wolverine.gif](https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif)" alt="Wolverine" width="400" height="200">
+
 
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player | Frontend Web Developer💻</h3>
