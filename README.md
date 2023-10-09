@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center">Cybersecurity Researcher | CTF Player | Frontend Web Developer💻</h3>
 
+<img src="man.gif" alt="Computer man">
+
 - 🔭 I’m currently working on **CyberSecurity**
 
 - 🌱 I’m currently learning **Javascript, React and TryHackMe**
