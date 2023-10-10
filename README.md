@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **CyberSecurity**
 
-- 🌱 I’m currently learning **Javascript, React and TryHackMe**
+- 🌱 I’m currently learning **Javascript, React and Hacking**
 
 - 👯 I’m looking to collaborate on **Javascript projects**
 
