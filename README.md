@@ -1,9 +1,7 @@
-<div style="max-width: 300%; overflow: hidden;">
-    <img src="https://media.tenor.com/u9dn9oCTDCUAAAAd/marvels-wolverine-wolverine.gif" alt="Wolverine" style="width: 250%;">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=35&duration=3000&pause=1000&color=C23BEE&multiline=true&width=1000&lines=Hello+geeks,+%F0%9F%91%8B+It's+me+Jayandhan...)](https://git.io/typing-svg)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/nmyCWzSzjzrdooHV7D" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disneyplus-disney-wolverine-plus-nmyCWzSzjzrdooHV7D">via GIPHY</a></p>
 
-<h1 align="center">Hi 👋, I'm Jayandhan</h1>
 <h3 align="center"> FullStack Developer | Cybersecurity Researcher | CTF Player💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjayandhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamjayandhan" /> </p>
