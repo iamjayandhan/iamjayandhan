@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=35&duration=3000&pause=1000&color=C23BEE&multiline=true&width=1000&lines=Hello+Visitor!,+%F0%9F%91%8B+It's+me+Jayandhan...)](https://git.io/typing-svg)
 
 <a href="https://giphy.com/gifs/disneyplus-disney-wolverine-plus-nmyCWzSzjzrdooHV7D" align="right">
-  <img align="right" src="https://media.giphy.com/media/nmyCWzSzjzrdooHV7D/giphy.gif" alt="Disney Wolverine GIF" width="370" height="200" style="margin-top:30px;">
+  <img align="right" src="https://media.giphy.com/media/nmyCWzSzjzrdooHV7D/giphy.gif" alt="Disney Wolverine GIF" width="370" height="200" style="margin-top:50px;">
 </a>
 
 ###### Computer Science Engineering Student
@@ -60,15 +60,7 @@
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47n1wwem44emsvkmngwgdgdpkd10zwczugi3xrfair&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30"/> ***My Toolbox***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<img src="https://img.icons8.com/color/48/python.png" width="70"/>
-<img src="https://img.icons8.com/color/48/c-programming.png" width="70"/>
-<img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" width="70"/>  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="70"/> <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="70" /> 
-<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="70"/> 
-<img src="https://img.icons8.com/color/48/git.png" width="70"/>
-<img src="https://img.icons8.com/color/48/firebase.png" width="70"/>
-<img src="https://img.icons8.com/color/48/mongodb.png" width="70"/>
-<img src="https://img.icons8.com/color/48/nodejs.png" width="70"/>
-<img src="https://img.icons8.com/color/48/react-native.png" width="70"/>
+<img src="https://img.icons8.com/color/48/python.png" width="70"/><img src="https://img.icons8.com/color/48/c-programming.png" width="70"/><img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" width="70"/><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="70"/><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="70" /><img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="70"/><img src="https://img.icons8.com/color/48/git.png" width="70"/><img src="https://img.icons8.com/color/48/firebase.png" width="70"/><img src="https://img.icons8.com/color/48/mongodb.png" width="70"/><img src="https://img.icons8.com/color/48/nodejs.png" width="70"/><img src="https://img.icons8.com/color/48/react-native.png" width="70"/>
 
 <br />
 
